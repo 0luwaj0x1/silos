@@ -1,0 +1,26 @@
+{
+  "name": "silos",
+  "version": "1.0.0",
+  "description": "Silos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstackmofo/silos.git"
+  },
+  "keywords": [
+    "silos"
+  ],
+  "author": "Josebaba <jozzy@parameter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fullstackmofo/silos/issues"
+  },
+  "homepage": "https://github.com/fullstackmofo/silos#readme",
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}
