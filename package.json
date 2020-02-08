@@ -19,7 +19,7 @@
     "url": "https://github.com/fullstackmofo/silos/issues"
   },
   "homepage": "https://github.com/fullstackmofo/silos#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
