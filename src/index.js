@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { modalContainer, modalContent, span}  from './styles';
+import { modalContainer, modalContent, span}  from '../src/styles';
 
 
 const Modal = () => {

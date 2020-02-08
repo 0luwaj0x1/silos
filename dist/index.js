@@ -12,7 +12,7 @@ var _reactDom = require('react-dom');
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-var _styles = require('./styles');
+var _styles = require('../src/styles');
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 

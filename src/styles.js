@@ -1,5 +1,6 @@
+import { keyframes } from 'styled-components'
 
-  const openModal = keyframes`
+  const openModal = keyframes `
   0% {
     opacity: 0;
     transform: translate(-50%, -30%) scale(0.5); }
