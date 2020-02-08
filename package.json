@@ -1,6 +1,6 @@
 {
   "name": "silos",
-  "version": "1.5.0",
+  "version": "1.6.1",
   "description": "Silos",
   "main": "dist/index.js",
   "scripts": {
