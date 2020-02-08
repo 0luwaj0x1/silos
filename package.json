@@ -2,9 +2,9 @@
   "name": "silos",
   "version": "1.0.0",
   "description": "Silos",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src/index.js --out-file=dist/index.js --presets=env,react"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,9 @@
   "dependencies": {
     "react": "16.12.0",
     "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1"
   }
 }

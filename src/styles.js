@@ -27,7 +27,7 @@ export const modalContent = {
   borderRadius: '.4rem',
   outline: 'none',
   width: '40%',
-  animation: `${openModal} .4s .2s`;
+  animation: `${openModal} .4s .2s`,
   backgroundColor: '#fff'
 };
 
