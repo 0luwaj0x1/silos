@@ -16,7 +16,7 @@ var _styles = require('../src/styles');
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var Modal = function Modal() {
+var Modal = function Modal(props) {
 
   return _reactDom2.default.createPortal(_react2.default.createElement(
     'div',

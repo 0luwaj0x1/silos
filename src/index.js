@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import { modalContainer, modalContent, span}  from '../src/styles';
 
 
-const Modal = () => {
+const Modal = (props) => {
 
   return (
     ReactDOM.createPortal(
