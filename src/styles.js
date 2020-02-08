@@ -1,5 +1,16 @@
 
 
+const modaleffect = `
+@keyframes open-modal {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -30%) scale(0.5); }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -30%) scale(1); } }
+`;
+
+
 export const modalContainer = {
   width: '100%',
   height: '100vh',
@@ -18,7 +29,7 @@ export const modalContent = {
   borderRadius: '.4rem',
   outline: 'none',
   width: '40%',
- // animation: `${openModal} .4s .2s`,
+  animation: 'openModal .4s .2s',
   backgroundColor: '#fff'
 };
 
