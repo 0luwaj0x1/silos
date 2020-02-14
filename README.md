@@ -9,7 +9,7 @@
 ## Installation & Usage
 
 ```sh
-npm install para-modal --save
+npm install silos --save
 ```
 ### inside index.html
 ```html
@@ -20,8 +20,7 @@ npm install para-modal --save
 
 ```js
 import React from 'react'
-import ReactDOM from 'react-dom';
-import Modal from 'para-modal';
+import Modal from 'silos';
 
 class Component extends React.Component {
 
