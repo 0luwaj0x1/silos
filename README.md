@@ -3,6 +3,9 @@
 ![npm version](https://img.shields.io/npm/v/silos)
 
 
+### A reusable react modal component
+
+
 ## Installation & Usage
 
 ```sh
