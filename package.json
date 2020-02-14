@@ -11,9 +11,13 @@
     "url": "git+https://github.com/fullstackmofo/silos.git"
   },
   "keywords": [
-    "silos"
+    "react",
+    "modal",
+    "reusable",
+    "popup",
+    "javascript"
   ],
-  "author": "Josebaba <jozzy@parameter.com>",
+  "author": "Josiah Ilesanmi <ilesanmi.josiah@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fullstackmofo/silos/issues"
